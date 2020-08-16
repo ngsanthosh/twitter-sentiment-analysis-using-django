@@ -1,7 +1,7 @@
 **Twitter-Sentiment_analysis**
   So, here i have created a twitter sentiment analysis app using **django**,
  
-I have done this with the help of textblob and tweepy Packages
+I have done this with the help of **textblob** and **tweepy** Packages
 
 The concept is,
   -> You just need to enter a search query
