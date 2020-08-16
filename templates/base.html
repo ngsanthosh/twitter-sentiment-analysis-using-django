@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Django Twitter Collab</title>
+</head>
+<body>
+    <form action="/external/" method="post">
+
+    {% csrf_token %}
+    Query=
+    <input type="text" name="params" required> <br>
+    <input type="submit" value="Search">
+    {{data_external}}
+    {{data}}
+    
+    </form>
+
+    <footer>
+        <img src="file:///C:/Users/Santhosh/Desktop/heart.svg">
+    </footer>
+
+
+
+
+</body>
+</html>
