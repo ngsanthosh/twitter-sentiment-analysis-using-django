@@ -4,7 +4,7 @@ from textblob import TextBlob
 from tweepy import OAuthHandler
 import sys 
 
-consumer_key = 'SEanXsZv5LC2C5gU9Jd4pT0EZ'
+consumer_key = 'SEanXsZv5LC2C5gU9Jd4pT0EZ' #I am providing my API Credentials, hope you won't misuse it!
 consumer_secret = 'bW39EDCGlTHEK59mJPS5P9JnpZ98OJBR9KeFgie5kKw1fvKzln'
 access_token = '1142102037703712769-qlPw2BSu1b8vr4LKK06I9NC9y9JL7n'
 access_token_secret = 'gv1vBXPrzULMHzsUfpaf9p2kZ102ieF0CBzYnfalkqZ64'
